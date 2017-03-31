@@ -1,0 +1,94 @@
+html {
+    font-size: 62.5%;
+}
+
+.navbar,
+.navbar.navbar-default {
+    opacity: 0.8;
+}
+
+.main {
+    position: relative;
+    top: 30px;
+}
+
+footer {
+    margin: 20px;
+    text-align: center;
+}
+
+section {
+    margin-top: 10px;
+    /*border: solid red 1px;*/
+}
+
+section .anchor {
+    position: relative;
+    top: -70px;
+}
+
+section.header {
+    background-image: url("/images/header1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+section.header h2 {
+    font-family: 'Catamaran', sans-serif;
+    font-size: 3em;
+    position: relative;
+    top: 25%;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+section.header .services {
+    position: relative;
+    top: 40%;
+    display: flex;
+    justify-content: center;
+}
+
+section h2 {
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 3em;
+    font-weight: 400;
+}
+
+.whyus h2,
+{
+    margin-top: 50px;
+}
+
+.whyus ul,
+.sponsors ul {
+    list-style: none;
+    margin: 100px 0;
+}
+
+.whyus li i,
+.sponsors li i {
+    font-size: 8em;
+    color: #009688;
+}
+
+.whyus li .list-header,
+.sponsors li .list-header {
+    font-size: 2em;
+    font-weight: 500;
+    text-transform: capitalize;
+    min-height: 3em;
+}
+
+.whyus li .list-content {
+    font-size: 1em;
+}
+
+.sponsoring {
+    text-align: center;
+}
+
+.sponsoring-header {
+    font-size: 2em;
+}
