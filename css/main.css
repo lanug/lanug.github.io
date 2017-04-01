@@ -27,10 +27,18 @@ section .anchor {
     top: -70px;
 }
 
-section.header {
+div.banner {
     background-image: url("/images/header1.jpg");
     background-repeat: no-repeat;
-    background-size: cover
+    background-size: cover;
+    height: 100%;
+}
+
+div.callforspeaker {
+    background-image: url("/images/speaker.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
 }
 
 section.header h2 {
@@ -91,4 +99,13 @@ section h2 {
 
 .sponsoring-header {
     font-size: 2em;
+}
+
+.credit {
+    margin: 30px;
+    margin-top: 60px;
+}
+
+.credit h2 {
+    font-size: 1.5em
 }

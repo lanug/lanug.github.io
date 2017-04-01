@@ -28,7 +28,6 @@
     <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
             <div class="navbar-header">
@@ -38,17 +37,17 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                <a class="navbar-brand" href="#">
-                    <i class="fa fa-free-code-camp"></i>
+                <a class="navbar-brand" href="index.html">
+                    <i class="fa fa-free-code-camp fa-2x"></i>
                 </a>
             </div>
             <div class="collapse navbar-collapse" id="navbar-collapse-1">
                 <ul class="nav navbar-nav pull-right">
                     <li>
-                        <a href="#register">Register</a>
+                        <a href="register.html">Register</a>
                     </li>
                     <li>
-                        <a href="#sponsors">Sponsors</a>
+                        <a href="index.html#sponsors">Sponsors</a>
                     </li>
                     <li>
                         <a href="speakers.html">Speakers</a>
@@ -63,13 +62,48 @@
             </div>
         </div>
     </nav>
-
     <div class="main clear-fix">
         <section class="header">
-            <h2>Guld Coast Code Camp is calling for Speakers</h2>
-            <div class="services">
-                <a class="btn btn-lg" href="https://goo.gl/forms/AiOGq3BWAahWnYJd2">I want to present</a>
+
+            <div id="carousel-generic" class="carousel slide" data-ride="carousel">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#carousel-generic" data-slide-to="0" class="active"></li>
+                    <li data-target="#carousel-generic" data-slide-to="1"></li>
+                </ol>
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+
+                        <div class="slide">
+                            <div class="banner">
+                                <i class="fa fa-free-code-camp fa-6" aria-hidden="true"></i>
+                                <h2>Gulf Coast Code Camp 2017 is Coming this fall</h2>
+                                <div class="services">
+                                    <a class="btn btn-lg btn-raised" href="register.html">Notify Me</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+
+                        <div class="slide">
+                            <div class="callforspeaker">
+                                <h2>Gulf Coast Code Camp is calling for Speakers</h2>
+                                <div class="services">
+                                    <a class="btn btn-lg btn-raised" href="https://goo.gl/forms/AiOGq3BWAahWnYJd2">I want to present</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+
             </div>
+
+
+
         </section>
         <section class="whyus">
             <div id="whyus" class="anchor"></div>
@@ -167,7 +201,17 @@
                 <div class="sponsoring-header">
                     Want to Sponsor the Gulf Coast Code Camp 2017?
                 </div>
-                <a class="btn btn-lg" href="mailto:xzhang@Zhresearches.com">Become a Sponsor</a>
+                <a class="btn btn-lg btn-raised" href="mailto:xzhang@Zhresearches.com">Become a Sponsor</a>
+            </div>
+        </section>
+        <section class="credit">
+            <div id="where" class="anchor"></div>
+
+            <div class="row">
+                <h2>Orginized by the Lower Alabama .Net User Group</h2>
+                <iframe id="usa" src="https://www.google.com/maps/embed?pb=!1m21!1m12!1m3!1d4574.459597116758!2d-88.17681817172495!3d30.69215590197098!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m6!3e0!4m0!4m3!3m2!1d30.691073399999997!2d-88.1749299!5e0!3m2!1sen!2sus!4v1491010472265"
+                    width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+
             </div>
         </section>
         <footer> Design by 2017 Zhresearches.com</footer>
