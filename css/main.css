@@ -9,7 +9,7 @@ html {
 
 .main {
     position: relative;
-    top: 30px;
+    top: 20px;
 }
 
 footer {
@@ -108,4 +108,23 @@ section h2 {
 
 .credit h2 {
     font-size: 1.5em
+}
+
+.social {
+    text-align: right;
+    width: 25%;
+}
+
+.social .icons {
+    margin: 1em 0 0 0;
+}
+
+.social .icons li {
+    float: right;
+    margin-left: 1.5em;
+    list-style: none;
+}
+
+.social .icons .label {
+    display: none;
 }
