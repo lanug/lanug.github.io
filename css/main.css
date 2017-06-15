@@ -1,130 +1,150 @@
-html {
-    font-size: 62.5%;
-}
-
-.navbar,
-.navbar.navbar-default {
-    opacity: 0.8;
-}
-
-.main {
-    position: relative;
-    top: 20px;
-}
-
-footer {
-    margin: 20px;
-    text-align: center;
-}
-
-section {
-    margin-top: 10px;
-    /*border: solid red 1px;*/
-}
-
-section .anchor {
-    position: relative;
-    top: -70px;
-}
-
-div.banner {
-    background-image: url("/images/header1.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100%;
-}
-
-div.callforspeaker {
-    background-image: url("/images/speaker.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100%;
-}
-
-section.header h2 {
-    font-family: 'Catamaran', sans-serif;
-    font-size: 3em;
-    position: relative;
-    top: 25%;
-    text-transform: uppercase;
-    text-align: center;
-}
-
-section.header .services {
-    position: relative;
-    top: 40%;
-    display: flex;
-    justify-content: center;
-}
-
-section h2 {
-    text-align: center;
-    text-transform: capitalize;
-    font-size: 3em;
-    font-weight: 400;
-}
-
-.whyus h2,
-{
-    margin-top: 50px;
-}
-
-.whyus ul,
-.sponsors ul {
-    list-style: none;
-    margin: 100px 0;
-}
-
-.whyus li i,
-.sponsors li i {
-    font-size: 8em;
-    color: #009688;
-}
-
-.whyus li .list-header,
-.sponsors li .list-header {
-    font-size: 2em;
-    font-weight: 500;
-    text-transform: capitalize;
-    min-height: 3em;
-}
-
-.whyus li .list-content {
-    font-size: 1em;
-}
-
-.sponsoring {
-    text-align: center;
-}
-
-.sponsoring-header {
-    font-size: 2em;
-}
-
-.credit {
-    margin: 30px;
-    margin-top: 60px;
-}
-
-.credit h2 {
-    font-size: 1.5em
-}
-
-.social {
-    text-align: right;
-    width: 25%;
-}
-
-.social .icons {
-    margin: 1em 0 0 0;
-}
-
-.social .icons li {
-    float: right;
-    margin-left: 1.5em;
-    list-style: none;
-}
-
-.social .icons .label {
-    display: none;
-}
+    html {
+        font-size: 62.5%;
+    }
+    
+    .navbar,
+    .navbar.navbar-default {
+        opacity: 0.8;
+    }
+    
+    .main {
+        position: relative;
+        top: 25px;
+    }
+    
+    footer {
+        margin: 20px;
+        text-align: center;
+    }
+    
+    section {
+        margin-top: 10px;
+        /*border: solid red 1px;*/
+    }
+    
+    section .anchor {
+        position: relative;
+        top: -70px;
+    }
+    
+    div.banner {
+        background-image: url("/images/header1.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100%;
+    }
+    
+    div.callforspeaker {
+        background-image: url("/images/speaker.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100%;
+    }
+    
+    section.header h2 {
+        font-family: 'Catamaran', sans-serif;
+        font-size: 3em;
+        position: relative;
+        top: 25%;
+        text-transform: uppercase;
+        text-align: center;
+    }
+    
+    section.header .services {
+        position: relative;
+        top: 40%;
+        display: flex;
+        justify-content: center;
+    }
+    
+    section h2 {
+        text-align: center;
+        text-transform: capitalize;
+        font-size: 3em;
+        font-weight: 400;
+    }
+    
+    .whyus h2,
+    {
+        margin-top: 50px;
+    }
+    
+    .whyus ul,
+    .sponsors ul {
+        list-style: none;
+        margin: 100px 0;
+    }
+    
+    .whyus li i,
+    .sponsors li i {
+        font-size: 8em;
+        color: #009688;
+    }
+    
+    .whyus li .list-header,
+    .sponsors li .list-header {
+        font-size: 2em;
+        font-weight: 500;
+        text-transform: capitalize;
+        min-height: 3em;
+    }
+    
+    .whyus li .list-content {
+        font-size: 1em;
+    }
+    
+    .sponsoring {
+        text-align: center;
+    }
+    
+    .sponsoring-header {
+        font-size: 2em;
+    }
+    
+    .credit {
+        margin: 30px;
+        margin-top: 60px;
+    }
+    
+    .credit h2 {
+        font-size: 1.5em
+    }
+    
+    .social {
+        text-align: right;
+        width: 25%;
+    }
+    
+    .social .icons {
+        margin: 1em 0 0 0;
+    }
+    
+    .social .icons li {
+        float: right;
+        margin-left: 1.5em;
+        list-style: none;
+    }
+    
+    .social .icons .label {
+        display: none;
+    }
+    
+    .page_header {
+        text-align: center;
+        padding: 30px;
+    }
+    
+    .page_header h2 {
+        font-weight: lighter;
+        font-size: 2.5em;
+    }
+    
+    .page_header p {
+        font-weight: lighter;
+        font-size: 1.1em;
+    }
+    
+    .newsletter {
+        width: 50%;
+        margin: auto;
+    }
