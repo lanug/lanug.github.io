@@ -41,12 +41,23 @@
         height: 100%;
     }
     
+    div.callforsponsor {
+        background-image: url("/images/sponsor.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100%;
+    }
+    
+    div.callforsponsor p,
+    div.callforspeaker p {
+        font-size: 0.5em;
+    }
+    
     section.header h2 {
         font-family: 'Catamaran', sans-serif;
         font-size: 3em;
         position: relative;
         top: 25%;
-        text-transform: uppercase;
         text-align: center;
     }
     
@@ -59,7 +70,7 @@
     
     section h2 {
         text-align: center;
-        text-transform: capitalize;
+        /*text-transform: capitalize;*/
         font-size: 3em;
         font-weight: 400;
     }
@@ -147,4 +158,32 @@
     .newsletter {
         width: 50%;
         margin: auto;
+    }
+    
+    #sponsorlevels {
+        margin: 30px;
+    }
+    
+    .sponsors li i.garnet {
+        color: #722F37;
+        font-size: 1em;
+    }
+    
+    .sponsors li i.sliver {
+        color: silver;
+        font-size: 1em;
+    }
+    
+    .sponsors li i.gold {
+        color: gold;
+        font-size: 1em;
+    }
+    
+    .sponsors li i.platinum {
+        color: #E5E4E2;
+        font-size: 1em;
+    }
+    
+    .sponsorlevel ul {
+        margin: 0;
     }
