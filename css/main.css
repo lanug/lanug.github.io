@@ -81,15 +81,36 @@
     }
     
     .whyus ul,
-    .sponsors ul {
+    .sponsors ul,
+    .team ul {
         list-style: none;
         margin: 100px 0;
+    }
+    
+    .whyus li,
+    .sponsors li {
+        text-align: center;
     }
     
     .whyus li i,
     .sponsors li i {
         font-size: 8em;
         color: #009688;
+    }
+    
+    .team li i {
+        font-size: 4em;
+        color: #009688;
+    }
+    
+    .team li img {
+        width: 200px;
+        height: 200px;
+        border-radius: 100px;
+    }
+    
+    .profile {
+        text-align: center;
     }
     
     .whyus li .list-header,
@@ -186,4 +207,19 @@
     
     .sponsorlevel ul {
         margin: 0;
+    }
+    
+    .google-maps {
+        position: relative;
+        padding-bottom: 50%;
+        height: 0;
+        overflow: hidden;
+    }
+    
+    .google-maps iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;
     }

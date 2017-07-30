@@ -1,6 +1,6 @@
 $(function() {
     $(window).trigger('resize');
-
+    
 });
 
 $(window).resize(function () {
@@ -11,6 +11,8 @@ $(window).resize(function () {
         $('#usa').width($('body').width() - 30)
     }
 })
+
+
 
 setInterval(function() {
     var winWidth = $(window).width();
