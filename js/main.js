@@ -39,7 +39,7 @@ $(function() {
                 {
                     company: 'Rural Sourcing Inc.',
                     url: 'https://www.ruralsourcing.com/',
-                    logo: 'rsi.jpg'
+                    logo: 'RSI.jpg'
                 }
             ]
         }
