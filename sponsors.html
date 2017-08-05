@@ -43,6 +43,7 @@
         ga('create', 'UA-96987996-1', 'auto');
         ga('send', 'pageview');
     </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.3.0/mustache.min.js"></script>
 </head>
 
 <body>
@@ -89,40 +90,7 @@
             <p>We'd like to thank our sponsors for their generous supports. Without them, we can't make this event reality.</p>-->
         </div>
         <div class="sponsors">
-            <!--<ul class="row">
-                <li class="col-md-4">
-                    <i class="fa fa-building-o" aria-hidden="true"></i>
-                    <div class="list-header">
-                        Company Name
-                    </div>
 
-                </li>
-                <li class="col-md-4">
-                    <i class="fa fa-building-o" aria-hidden="true"></i>
-                    <div class="list-header">
-                        Company Name
-                    </div>
-
-                </li>
-                <li class="col-md-4">
-                    <i class="fa fa-building-o " aria-hidden="true"></i>
-                    <div class="list-header">
-                        Company Name
-                    </div>
-                </li>
-                <li class="col-md-4">
-                    <i class="fa fa-building-o" aria-hidden="true"></i>
-                    <div class="list-header">
-                        Company Name
-                    </div>
-                </li>
-                <li class="col-md-4">
-                    <i class="fa fa-building-o" aria-hidden="true"></i>
-                    <div class="list-header">
-                        Company Name
-                    </div>
-                </li>
-            </ul>-->
             <div class="sponsoring">
                 <div class="sponsoring-header">
                     <p>Thank you for your interest in sponsoring <b>Gulf Coast Code Camp 2017</b>.</p>
@@ -130,6 +98,14 @@
                 </div>
                 <a class="btn btn-lg btn-raised btn-primary" href="https://goo.gl/forms/F4HoaPfQenhgCS7e2">Become a Sponsor</a>
             </div>
+
+            <section class="sponsors">
+                <div id="sponsors" class="anchor"></div>
+                <h2>Sponsors</h2>
+                <div id="sponsorContainer">
+                </div>
+            </section>
+
             <div id="sponsorlevels">
 
                 <h3>Sponsor Levels</h3>
@@ -200,7 +176,29 @@
             </div>
         </div>
         <footer> Designed by 2017 Zhresearches.com</footer>
+        <script src="js/main.js "></script>
+        <script id="sponsor_template" type="x-tmpl-mustache">
+            {{#data}}
+            <div class="sponsor-level">
+                <ul class="row">
+                    {{#companies}}
+                    <li class="col-md-4">
+                        <a href="{{url}}">
+                            <img src="images/logos/{{logo}}" />
+                        </a>
+                        <div class="companyName">
+                            {{company}}
+                            <div class="level">
+                                {{level}}
+                            </div>
+                        </div>
 
+                    </li>
+                    {{/companies}}
+                </ul>
+            </div>
+            {{/data}}
+        </script>
 </body>
 
 </html>

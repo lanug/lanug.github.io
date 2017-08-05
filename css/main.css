@@ -222,3 +222,26 @@
         width: 100% !important;
         height: 100% !important;
     }
+    
+    div#sponsorContainer {
+        text-align: center;
+    }
+    
+    .sponsor-level h3 {
+        text-align: center;
+    }
+    
+    .sponsor-level img {
+        width: 250px;
+        height: 100px;
+    }
+    
+    .sponsor-level .companyName {
+        font-size: 1.3em;
+        font-weight: 400
+    }
+    
+    .sponsor-level .level {
+        background: #B2BEB5;
+        margin: 0 0 10px 0;
+    }
