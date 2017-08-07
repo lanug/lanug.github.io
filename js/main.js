@@ -2,7 +2,7 @@ $(function() {
    
     var sponsors = [
         {
-            level: 'Golden',
+            level: 'Gold',
             companies: [
                 {
                     company: 'The SSI Group',
