@@ -19,6 +19,7 @@
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" href="css/bootstrap-material-design.min.css" />
     <link rel="stylesheet" type="text/css" href="css/main.css" />
+    <link rel="stylesheet" type="text/css" href="css/speaker.css" />
     <script type="text/javascript">
         var host = "www.gulfcoastcodecamp.info";
         if ((host == window.location.host) && (window.location.protocol != "https:"))
@@ -43,6 +44,7 @@
         ga('create', 'UA-96987996-1', 'auto');
         ga('send', 'pageview');
     </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.3.0/mustache.min.js"></script>
 </head>
 
 <body>
@@ -91,7 +93,10 @@
                 <a class="btn btn-lg btn-raised btn-primary" href="https://goo.gl/forms/AiOGq3BWAahWnYJd2">I want to present</a>
             </div>
         </div>
-
+        <section class="speaker">
+            <div id="speakerContainer">
+            </div>
+        </section>
 
         <div class="newsletter">
             <!-- Begin MailChimp Signup Form -->
@@ -142,6 +147,26 @@
             <!--End mc_embed_signup-->
         </div>
     </div>
+    <script src="js/speaker.js "></script>
+    <script id="speaker_template" type="x-tmpl-mustache">
+        {{#data}}
+        <div class="list-group">
+            <div id="speaker_{{LastName}}_{{FirstName}}" class="list-group-item">
+                <div class="row-picture">
+                    {{#SocialNetwork}}
+                    <img class="circle" src="https://twitter.com/{{SocialNetwork}}/profile_image?size=original" alt="icon"> {{/SocialNetwork}} {{^SocialNetwork}}
+                    <img class="circle" src="images/avator.png" alt="icon"> {{/SocialNetwork}}
+                </div>
+                <div class="row-content">
+                    <h4 class="list-group-item-heading">{{FirstName}} {{LastName}}</h4>
+
+                    <p class="list-group-item-text">{{Bio}}</p>
+                </div>
+            </div>
+            <div class="list-group-separator"></div>
+        </div>
+        {{/data}}
+    </script>
 </body>
 
 </html>

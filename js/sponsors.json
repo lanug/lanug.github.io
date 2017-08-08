@@ -1,0 +1,52 @@
+[{
+        "level": "Gold",
+        "companies": [{
+                "company": "The SSI Group",
+                "url": "http://thessigroup.com/",
+                "logo": "SSI.jpg"
+            },
+            {
+                "company": "Gateway Sourcing",
+                "url": "http://www.gatewaysourcing.com/",
+                "logo": "gold.jpg"
+            },
+            {
+                "company": "Pilot Catastrophe",
+                "url": "https://www.pilotcat.com/",
+                "logo": "gold.jpg"
+            },
+            {
+                "company": "Bit-Wizards",
+                "url": "https://bitwizards.com/",
+                "logo": "BW.jpg"
+            },
+            {
+                "company": "GrapeCity, Inc",
+                "url": "http://tools.grapecity.com",
+                "logo": "GC.jpg"
+            },
+            {
+                "company": "Dorger Software Architects, Inc.",
+                "url": "http://www.dorgersoft.com",
+                "logo": "gold.jpg"
+            }
+        ]
+
+    },
+    {
+        "level": "Garnet",
+        "companies": [{
+
+                "company": "Spring Hill College",
+                "url": "http://www.shc.edu/",
+                "logo": "garnet.jpg"
+            },
+            {
+                "company": "Rural Sourcing Inc.",
+                "url": "https://www.ruralsourcing.com/",
+                "logo": "RSI.jpg"
+            }
+        ]
+    }
+
+]

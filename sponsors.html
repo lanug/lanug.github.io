@@ -94,12 +94,15 @@
             <div class="sponsoring">
                 <div class="sponsoring-header">
                     <p>Thank you for your interest in sponsoring <b>Gulf Coast Code Camp 2017</b>.</p>
-                    <p> We are working hard for upcoming event and looks forward to highlight your business to local technology community.</p>
+                    <p> We are working hard for upcoming event and look forward to highlight your business to local technology community.</p>
                 </div>
                 <a class="btn btn-lg btn-raised btn-primary" href="https://goo.gl/forms/F4HoaPfQenhgCS7e2">Become a Sponsor</a>
             </div>
 
-
+            <section class="sponsors">
+                <div id="sponsorContainer">
+                </div>
+            </section>
 
             <div id="sponsorlevels">
 
@@ -169,19 +172,14 @@
             <div class="sponsoring">
                 <a class="btn btn-lg btn-raised btn-primary" href="https://goo.gl/forms/F4HoaPfQenhgCS7e2">Become a Sponsor</a>
             </div>
-            <section class="sponsors">
-                <div id="sponsors" class="anchor"></div>
-                <h2>Sponsors</h2>
-                <div id="sponsorContainer">
-                </div>
-            </section>
+
         </div>
         <footer> Designed by 2017 Zhresearches.com</footer>
         <script src="js/main.js "></script>
         <script id="sponsor_template" type="x-tmpl-mustache">
             {{#data}}
             <div class="sponsor-level">
-                <ul class="row">
+                <ul class="row vertical-align ">
                     {{#companies}}
                     <li class="col-md-4">
                         <a href="{{url}}">

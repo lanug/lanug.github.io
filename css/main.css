@@ -103,8 +103,8 @@
     }
     
     .team li img {
-        width: 200px;
-        height: 200px;
+        width: 150px;
+        height: 150px;
         border-radius: 100px;
     }
     
@@ -231,9 +231,15 @@
         text-align: center;
     }
     
+    .sponsor-level li {
+        max-height: 160px;
+        margin: 10px 0;
+    }
+    
     .sponsor-level img {
-        width: 250px;
-        height: 100px;
+        max-width: 100%;
+        height: auto;
+        max-height: 100px;
     }
     
     .sponsor-level .companyName {
@@ -244,4 +250,11 @@
     .sponsor-level .level {
         background: #B2BEB5;
         margin: 0 0 10px 0;
+    }
+    
+    .vertical-align {
+        display: flex;
+        align-items: flex-end;
+        flex-direction: row;
+        flex-wrap: wrap;
     }

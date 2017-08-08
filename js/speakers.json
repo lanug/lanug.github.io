@@ -1,0 +1,92 @@
+[{
+        "Timestamp": "2017/07/23 5:05:06 PM EST",
+        "Username": "samirbehara@gmail.com",
+        "FirstName": "Samir",
+        "LastName": "Behara",
+        "SocialNetwork": "@samirbehara",
+        "Phone": "",
+        "Bio": "Samir Behara has a Bachelor Degree in Computer Science and has been part of the IT Industry since he graduated in 2006. He has worked on large-scale enterprise applications involving complex business functions, web integration, and data management in various domains like Insurance, Manufacturing, and Publishing. Samir works as a Senior Developer at EBSCO Industries, Birmingham and builds software solutions using cutting edge Microsoft technologies, primarily C# and SQL Server. \n\nAmidst working in a wide range of technologies - both front end and back end, one thing which has not changed is his love for SQL Server. He is passionate about developing his SQL skills, contributing to the SQL Server community and keeping in pace with the new technologies and advancements. He is the Co-Chapter Lead of the Steel City SQL Server Users Group – which is the Birmingham, AL chapter of PASS. He is the author of www.dotnetvibes.com",
+        "Sessions": [{
+            "Title": "Making Developers Lives Easier with SQL Server 2016",
+            "Description": "Do you want insights into how your data has changed over a period of time?\nAre you using JSON as your data interchange format and want to integrate with SQL Server?\nDo you wish to have more statistical/historical information while troubleshooting a T-SQL performance issue?\nDo you face any problem while troubleshooting a long running query?\nHave you encountered performance issues after server/application upgrades?\n\nIf your answer to any of the above questions is YES, then this session is for YOU.  \nDuring this content rich and demo intensive session, you will understand the rich capabilities of SQL Server 2016 and how the life of a SQL Developer is getting transformed with features like Query Store, Live Query Statistics, Comparing Execution Plans, Built-in JSON Support, Temporal Database and other nice T-SQL enhancements.",
+            "Level": "Intermediate",
+            "Objective": "During this content rich and demo intensive session, you will understand the rich capabilities of SQL Server 2016 and how the life of a SQL Developer is getting transformed with features like Query Store, Live Query Statistics, Comparing Execution Plans, Built-in JSON Support, Temporal Database and other nice T-SQL enhancements.",
+            "Area": "Database"
+        }, {
+            "Title": "Coding at 100 mph: Tips and Tricks in SSMS 2017",
+            "Description": "Be it a T-SQL Developer or DBA, we spend most of our time working in SSMS. In this session, we will learn a number of tips and tricks to increase productivity and efficiency in SSMS IDE. This will be a content rich session with plenty of live demos.\n \nEvery developer wants to be productive and get more things accomplished during their day to day work. Given a choice between working harder and working smarter, you will most likely choose the latter. But the big question is – How do you boost your productivity? How do you reduce your development time? How do you increase your coding speed? Gaining a superlative understanding of the IDE goes a long way in increasing one’s productivity.\n \nSQL Server Management Studio has a number of hidden features which might not have been advertised much, but knowing these features will make your life so much easier.We will explore ways to stop doing manual repetitive tasks, use shortcuts, type less and generate more lines of code in minimal time. At the end of this session, you will learn some useful techniques to take back with you and apply in your day to day work.",
+            "Level": "Intermediate",
+            "Objective": " In this session, you will learn a number of tips and tricks which will enhance your productivity and efficiency in SSMS IDE. We will explore ways to stop doing manual repetitive tasks, use shortcuts, type less and generate more lines of code in minimal time. At the end of this session, you will learn some useful techniques to take back with you and apply in your day to day work.",
+            "Area": "Database"
+        }],
+
+        "Comment": ""
+    },
+    {
+        "Timestamp": "2017/08/03 1:15:56 PM EST",
+        "Username": "jonathan.peppers@gmail.com",
+        "FirstName": "Jonathan",
+        "LastName": "Peppers",
+        "SocialNetwork": "@jonathanpeppers",
+        "Phone": "",
+        "Bio": "Former Xamarin MVP and lead developer on the popular apps: Hanx Writer and Draw a Stickman. I work at Microsoft on the Xamarin.Android  team.",
+        "Sessions": [{
+            "Title": "Cross-platform Development with Xamarin",
+            "Description": "Build a cross-platform mobile app in C#. We will contrast what it looks like to use the native APIs for iOS or Android vs using Xamarin.Forms. We will build a simple application for iOS and Android using Visual Studio for Mac.",
+            "Level": "Beginner",
+            "Objective": "Get a feel for how to build mobile apps with Xamarin and C#",
+            "Area": "Mobile Development"
+        }],
+        "Comment": ""
+    }, {
+        "Timestamp": "2017/06/23 2:44:14 AM EST",
+        "Username": "inlee@troy.edu",
+        "FirstName": "Ingyu",
+        "LastName": "Lee",
+        "SocialNetwork": "",
+        "Phone": "",
+        "Bio": "Instructor at Troy University",
+        "Sessions": [{
+            "Title": "Starting Deep Learning with Python",
+            "Description": "This talk introduces the concept and usage of deep learning in python computing environments. The audience will learn the basic ideas and applications of  deep learning technologies. Especially, this talk will focus on using Keras on Theano and Tensorflow, and the exercises are designed for software engineers and data scientists. ",
+            "Level": "Beginner",
+            "Objective": "",
+            "Area": "Cloud Development;Data science"
+        }],
+        "Comment": ""
+    },
+    {
+        "Timestamp": "2017/08/03 1:56:16 PM EST",
+        "Username": "ohri.sachin@gmail.com",
+        "FirstName": "Sachin",
+        "LastName": "Ohri",
+        "SocialNetwork": "@ohri_sachin",
+        "Phone": "",
+        "Bio": "I am a Technology Architect with 13+ years of experience. My expertise include  C#, ASP.NET MVC, Angular, Typescript and Azure. I have been involved in web application development for last 10 years and have been an Architect for last 5 years. Currently I am working on a book for Typescript and Angular scheduled to be released by end of the year.",
+        "Sessions": [{
+            "Title": "Typescript: Surprisingly Simple, Extraordinarily Powerful",
+            "Description": "This session will introduce attendees with Typescript and how it can help write more maintainable, robust and error free code. We will look at main features of Typescript and how Typescript transpiles into JavaScript.",
+            "Level": "Beginner",
+            "Objective": "Today as we move towards ES6 and ES7, we see that JavaScript community is adapting and accepting the features of traditional programming languages like C# and Java. This helps developers to write more mainatable code and also provides good base for new developers coming into JavaScript from Java or C#.\nTypescript adds more features on top of these new features like types and interfaces which allows us to write object oriented code in JavaScript, even for the browser which do not support ES6. \nLearning Typescript will allow developers to create large applications with more confidence.",
+            "Area": "Web Development"
+        }],
+        "Comment": "I have given sessions in my organization but do not have experience outside of that."
+    },
+    {
+        "Timestamp": "2017/08/03 4:11:51 PM EST",
+        "Username": "bryans@kentico.com",
+        "FirstName": "Bryan",
+        "LastName": "Soltis",
+        "SocialNetwork": "@bryan_soltis",
+        "Phone": "",
+        "Bio": "Bryan Soltis is the Technical Evangelist at Kentico and an avid .NET developer. With over 18 years of web development experience, Bryan has completed projects for Microsoft, IMG, HP, and other Fortune 500 companies. A former Azure VTSP, Bryan has developed numerous applications with Microsoft’s cloud and Kentico, including custom software development, integrated solutions, and globally-available enterprise applications. Bryan enjoys working with the development community and educating developers on best practices, new technologies, and utilizing .NET, the cloud, and Kentico to their fullest potentials. And he really likes beer.",
+        "Sessions": [{
+            "Title": "Microservice-Powere­d Applications - It worked for Voltron, it can work for you!",
+            "Description": "Everyone knows that when you assemble a bunch of underdogs together, they become an unstoppable force. Whether it’s Voltron battling a Robeast, or a bunch of ants taking on a biker flying biker gang, combining several resources into one is a great way to add strength and capabilities to a team. In this session, Kentico Technical Evangelist Bryan Soltis will show you how to apply these same principles to building web applications using microservices for content hosting and delivery, search, and automation, all hosted in Azure.",
+            "Level": "Intermediate;Advanced",
+            "Objective": "",
+            "Area": "Web Development;Cloud Development"
+        }],
+        "Comment": ""
+    }
+]

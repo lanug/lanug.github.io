@@ -1,0 +1,17 @@
+.list-group .list-group-item .row-picture img {
+    width: 100px;
+    height: 100px;
+}
+
+.list-group .list-group-item .row-content {
+    width: calc(100% - 150px);
+}
+
+.list-group .list-group-item .list-group-item-heading {
+    font-size: 2em;
+    font-weight: 400;
+}
+
+.list-group-item-text {
+    font-size: 1.2em;
+}
