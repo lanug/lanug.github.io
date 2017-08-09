@@ -88,5 +88,47 @@
             "Area": "Web Development;Cloud Development"
         }],
         "Comment": ""
+    },
+    {
+        "Timestamp": "2017/08/03 4:11:51 PM EST",
+        "Username": "keidrickp@gmail.com",
+        "FirstName": "Keidrick",
+        "LastName": "Pettaway",
+        "SocialNetwork": "@kpett",
+        "Phone": "",
+        "Bio": "Keidrick is Practiced Technologist with over 10 years of experience in Private Sector, Higher Education and DOD Industry space. He currently works for a Revenue Cycle Management provider working primarily on the Microsoft Tech Stack.",
+        "Sessions": [{
+            "Title": "",
+            "Description": "",
+            "Level": "Intermediate;Advanced",
+            "Objective": "",
+            "Area": "DataBase"
+        }],
+        "Comment": ""
+    },
+    {
+        "Timestamp": "2017/08/03 4:11:51 PM EST",
+        "Username": "xzhang@zhresearches.com",
+        "FirstName": "Xiangdong",
+        "LastName": "Zhang",
+        "SocialNetwork": "@zhangxd6",
+        "Phone": "",
+        "Bio": "He is most focused on Web technology and Microsoft stack as his backend choice.He is excited about new technologies, particularly in the cloud frontier and container, for instance Microsoft Azure and any frontend development. More recently, he grow his interest by tinkering with Arduino, 3D printing, and exploring IoT.  ",
+        "Sessions": [{
+                "Title": "Get started with azure service fabric",
+                "Description": "We will explore the offer Microsoft provided to realize microservice architecture, Azure Service Fabric, by starting with why the industry is talking about it, what it is and what the pros and cons are. Then we will dive directly into Azure Service Fabric to show three different programing modes it provides with live coding  in Visual Studio as much as possible",
+                "Level": "Intermediate;Advanced",
+                "Objective": "Get familiar with azure service fabric programing models ",
+                "Area": "Cloud Development"
+            },
+            {
+                "Title": "Docker 101",
+                "Description": "This will be introduction of docker, a virtualization technology. In the session, we will explore what is docker, what problems it is trying to solve and how can get it started. ",
+                "Level": "Beginner",
+                "Objective": "Introduce the docker ",
+                "Area": "Cloud Development;DevOps"
+            }
+        ],
+        "Comment": ""
     }
 ]
