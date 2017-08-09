@@ -154,8 +154,8 @@
             <div id="speaker_{{LastName}}_{{FirstName}}" class="list-group-item">
                 <div class="row-picture">
                     {{#SocialNetwork}}
-                    <img class="circle" src="https://twitter.com/{{SocialNetwork}}/profile_image?size=original" alt="icon"> {{/SocialNetwork}} {{^SocialNetwork}}
-                    <img class="circle" src="images/avator.png" alt="icon"> {{/SocialNetwork}}
+                    <img class="circle" src="https://twitter.com/{{SocialNetwork}}/profile_image?size=original" alt="icon"> {{/SocialNetwork}} {{^SocialNetwork}} {{#Photo}} <img class="circle" src="images/{{Photo}}" alt="icon">{{/Photo}} {{^Photo}}
+                    <img class="circle" src="images/avator.png" alt="icon"> {{/Photo}} {{/SocialNetwork}}
                 </div>
                 <div class="row-content">
                     <h4 class="list-group-item-heading">{{FirstName}} {{LastName}}</h4>

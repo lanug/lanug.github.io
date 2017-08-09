@@ -44,8 +44,9 @@
         "FirstName": "Ingyu",
         "LastName": "Lee",
         "SocialNetwork": "",
+        "Photo": "Lee.jpg",
         "Phone": "",
-        "Bio": "Instructor at Troy University",
+        "Bio": "Ingyu Lee is an instructor in the Sorrell College of Business at Troy University. He received his Ph.D. from the Department of Computer Science and Engineering at The Pennsylvania State University. After graduated, he is spending his time on teaching programming to Information System major students. His main interest is developing data mining and machine learning algorithms, and applying those algorithms to business applications.",
         "Sessions": [{
             "Title": "Starting Deep Learning with Python",
             "Description": "This talk introduces the concept and usage of deep learning in python computing environments. The audience will learn the basic ideas and applications of  deep learning technologies. Especially, this talk will focus on using Keras on Theano and Tensorflow, and the exercises are designed for software engineers and data scientists. ",
