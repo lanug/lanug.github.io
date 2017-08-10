@@ -150,14 +150,14 @@
     <script src="js/speaker.js "></script>
     <script id="speaker_template" type="x-tmpl-mustache">
         {{#data}}
-        <div class="list-group">
+        <div class="row list-group">
             <div id="speaker_{{LastName}}_{{FirstName}}" class="list-group-item">
-                <div class="row-picture">
+                <div class=" col-md-2 col-sm-2 col-xs-12 row-picture">
                     {{#SocialNetwork}}
                     <img class="circle" src="https://twitter.com/{{SocialNetwork}}/profile_image?size=original" alt="icon"> {{/SocialNetwork}} {{^SocialNetwork}} {{#Photo}} <img class="circle" src="images/{{Photo}}" alt="icon">{{/Photo}} {{^Photo}}
                     <img class="circle" src="images/avator.png" alt="icon"> {{/Photo}} {{/SocialNetwork}}
                 </div>
-                <div class="row-content">
+                <div class="col-md-10 col-sm-10 col-xs-12">
                     <h4 class="list-group-item-heading">{{FirstName}} {{LastName}}</h4>
 
                     <p class="list-group-item-text">{{Bio}}</p>
