@@ -41,7 +41,7 @@
         font-size: 0.5em;
         font-weight: 600;
     }
-
+    
     div.callforspeaker {
         background-image: url("/images/speaker.jpg");
         background-repeat: no-repeat;
@@ -105,7 +105,7 @@
     .whyus li {
         text-align: center;
     }
-
+    
     .whyus li i,
     .sponsors li i {
         font-size: 8em;
@@ -147,6 +147,13 @@
         font-size: 1.3em;
     }
     
+    div.sponsor-appreciation {
+        margin: 40px 20px;
+        font-size: 1.5em;
+        text-align: center;
+        font-weight: 400;
+    }
+    
     .credit {
         margin: 30px;
         margin-top: 60px;
@@ -177,7 +184,7 @@
     
     .page_header {
         text-align: center;
-        padding: 30px;
+        padding: 20px;
     }
     
     .page_header h2 {
@@ -228,7 +235,7 @@
         left: 50%;
         margin-left: -50px;
     }
-
+    
     .google-maps {
         position: relative;
         padding-bottom: 50%;
