@@ -131,5 +131,22 @@
             }
         ],
         "Comment": ""
+    },
+    {
+        "Timestamp": "2017/08/03 4:11:51 PM EST",
+        "Username": "kellynicole.w@gmail.com",
+        "FirstName": "Kelly",
+        "LastName": "Wong",
+        "SocialNetwork": "",
+        "Phone": "",
+        "Bio": "Kelly is a Software Quality Assurance professional who has over 18 years experience at various companies in the private sector.  She is involved with automated testing of web applications using Selenium on the Microsoft stack.  She is currently working at a Revenue Cycle Management provider as a QA Engineer.",
+        "Sessions": [{
+            "Title": "Automated Testing",
+            "Description": "Introduction into getting started with Automated Testing",
+            "Level": "Beginner;Intermediate",
+            "Objective": "Hand coding an automated test using Selenium in C#.",
+            "Area": "Other"
+        }],
+        "Comment": ""
     }
 ]
