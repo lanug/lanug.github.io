@@ -139,6 +139,7 @@
         "LastName": "Wong",
         "SocialNetwork": "",
         "Phone": "",
+        "Photo": "kelly.jpg",
         "Bio": "Kelly is a Software Quality Assurance professional who has over 18 years experience at various companies in the private sector.  She is involved with automated testing of web applications using Selenium on the Microsoft stack.  She is currently working at a Revenue Cycle Management provider as a QA Engineer.",
         "Sessions": [{
             "Title": "Automated Testing",
