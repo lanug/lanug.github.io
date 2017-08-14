@@ -23,22 +23,6 @@
         "Comment": ""
     },
     {
-        "Timestamp": "2017/08/03 1:15:56 PM EST",
-        "Username": "jonathan.peppers@gmail.com",
-        "FirstName": "Jonathan",
-        "LastName": "Peppers",
-        "SocialNetwork": "@jonathanpeppers",
-        "Phone": "",
-        "Bio": "Former Xamarin MVP and lead developer on the popular apps: Hanx Writer and Draw a Stickman. I work at Microsoft on the Xamarin.Android  team.",
-        "Sessions": [{
-            "Title": "Cross-platform Development with Xamarin",
-            "Description": "Build a cross-platform mobile app in C#. We will contrast what it looks like to use the native APIs for iOS or Android vs using Xamarin.Forms. We will build a simple application for iOS and Android using Visual Studio for Mac.",
-            "Level": "Beginner",
-            "Objective": "Get a feel for how to build mobile apps with Xamarin and C#",
-            "Area": "Mobile Development"
-        }],
-        "Comment": ""
-    }, {
         "Timestamp": "2017/06/23 2:44:14 AM EST",
         "Username": "inlee@troy.edu",
         "FirstName": "Ingyu",
