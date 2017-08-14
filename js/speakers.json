@@ -45,7 +45,8 @@
         "Username": "ohri.sachin@gmail.com",
         "FirstName": "Sachin",
         "LastName": "Ohri",
-        "SocialNetwork": "@ohri_sachin",
+        "SocialNetwork": "",
+        "Photo": "Ohri.jpg",
         "Phone": "",
         "Bio": "I am a Technology Architect with 13+ years of experience. My expertise include  C#, ASP.NET MVC, Angular, Typescript and Azure. I have been involved in web application development for last 10 years and have been an Architect for last 5 years. Currently I am working on a book for Typescript and Angular scheduled to be released by end of the year.",
         "Sessions": [{
