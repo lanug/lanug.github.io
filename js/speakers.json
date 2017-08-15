@@ -134,5 +134,23 @@
             "Area": "Other"
         }],
         "Comment": ""
+    },
+    {
+        "Timestamp": "2017/08/03 4:11:51 PM EST",
+        "Username": "kevin.garner@ssigroup.com",
+        "FirstName": "Kevin",
+        "LastName": "Garner",
+        "SocialNetwork": "",
+        "Phone": "",
+        "Photo": "",
+        "Bio": "Kevin Garner is a software engineer with 7 years of experience in .NET, C#, SQL Server, and web development via JavaScript (and now TypeScript!). Kevin enjoys building software, composing/producing/playing music, developing video games of hobbyist quality, learning Japanese, and writing fiction.",
+        "Sessions": [{
+            "Title": "SOLID Programming: Applying the Principle of Single Responsibility            ",
+            "Description": "In this session, attendees can learn to write code that is easy to test, simple to expand, and adaptable to change. At the core of this talk is the Single Responsibility Principle (SRP), which is part of SOLID Programming Principles. The speaker will demonstrate how to refactor legacy code and apply SRP. SOLID Programming is a set of five essential principles which can lead to robust, long - lasting code.Robert C.Martin,software engineer and celebrated author of some of the most essential programming books today, coined the acronym SOLID to represent a collection of what he considered the most essential principles for any programmer.The first component of SOLID is the Single Responsibility Principle(SRP),and in the world of enterprise software engineering,not applying SRP can quickly lead to code with the power of the gods and the inflexibility of a fluorescent light bulb.However, by learning and applying SRP, armed with the power of interfaces and the safety net of unit testing,a programmer can transform almost any code base from untouchable 'legacy code' into living, adaptive code that creates value and can stand the test of time.",
+            "Level": "Intermediate",
+            "Objective": "Learn what the Single Responsibility Principle (SRP) is and how to apply it to existing code",
+            "Area": "Web Development; Database;Other"
+        }],
+        "Comment": ""
     }
 ]
