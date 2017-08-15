@@ -152,5 +152,23 @@
             "Area": "Web Development; Database;Other"
         }],
         "Comment": ""
+    },
+    {
+        "Timestamp": "2017/08/03 4:11:51 PM EST",
+        "Username": "kevin.grohoske@sparkhound.com",
+        "FirstName": "Kevin",
+        "LastName": "Grohoske",
+        "SocialNetwork": "",
+        "Phone": "",
+        "Photo": "krg.jpg",
+        "Bio": "Kevin Grohoske is an experienced IT Leader who got his start at a young age writing software on a Timex Sinclair 1000. He has since gone on to work for 20+ years with Fortune 100 companies, Small/Medium Businesses, and lead multiple teams achieving both the “Inc. 5000” and “Best Places to Work” recognitions. He is recognizing for his “culture first” leadership style and being on the forefront of trends in software development.Kevin’ s technical enterprise expertise is demonstrated by his past work on building e - commerce platforms, content management platforms, Microsoft - centric development technologies, as well as open source platforms.He has contributed on numerous projects as an executive leader, enterprise architect,solution architect,project manager,as well as hands - on software development.He also is frequent speaker at local and region technical events,led user’ s groups,and organized major technical conferences.",
+        "Sessions": [{
+            "Title": "Leveraging Microsoft’s Cognitive Services for Building the Next Generation of Software",
+            "Description": "",
+            "Level": "Intermediate",
+            "Objective": "",
+            "Area": "Cloud Development"
+        }],
+        "Comment": ""
     }
 ]
