@@ -34,6 +34,11 @@
                 "company": " CodeSmith Tools, LLC.",
                 "url": "http://www.codesmithtools.com/",
                 "logo": "codesmith.png"
+            },
+            {
+                "company": "INFRAGISTICS",
+                "url": "https://www.infragistics.com",
+                "logo": "Infragistics.jpg"
             }
         ]
 
