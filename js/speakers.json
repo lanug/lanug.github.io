@@ -170,5 +170,23 @@
             "Area": "Cloud Development"
         }],
         "Comment": ""
+    },
+    {
+        "Timestamp": "2017/08/03 4:11:51 PM EST",
+        "Username": "ozkary@yahoo.com        ",
+        "FirstName": "Oscar",
+        "LastName": "Garcia",
+        "SocialNetwork": "ozkary",
+        "Phone": "",
+        "Photo": "",
+        "Bio": "Oscar Garcia is a Software Solutions Architect who resides in Sunny South Florida. He is a Microsoft MVP and certified solutions developer with many years of experience building solutions using .Net framework and multiple open source frameworks. Currently, he specializes in building cloud solutions using technologies like Azure, ASP.NET, NodeJS, AngularJS, and other JavaScript frameworks. He enjoys sharing his technical experiences by maintaining a blog and doing presentations .You can follow Oscar on Twitter via @ozkary or visiting his blog at ozkary.com ",
+        "Sessions": [{
+            "Title": "Securing Web apps with Azure AD ",
+            "Description": "",
+            "Level": "Beginner;Intermediate",
+            "Objective": "When building a cloud app,one of the most common cross cutting concerns is the authentication of users.For some solutions,the security implementation is handled by the application itself.In this article,we explore the use of Azure Active Directory(AAD) to provide the security servicesfor our web or mobile apps. The application we are building is a Node.js backend API with an AngularJS front end.We explore the following areas:•Create an AngularJS App and use Git to deploy to Azure• Add Azure Active Directory(AD) service authentication to protect our app• Discuss the limitation using simple AD authentication when enabling anonymous access to some routes.•Enhance our security by taking direct control of the Azure AD APIs in our code to consume the Jason Web Token(JWT) from the Azure Identity provider ",
+            "Area": "Web Development;Cloud Development;DevOps"
+        }],
+        "Comment": ""
     }
 ]
