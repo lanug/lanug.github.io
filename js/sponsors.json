@@ -39,6 +39,11 @@
                 "company": "INFRAGISTICS",
                 "url": "https://www.infragistics.com",
                 "logo": "Infragistics.jpg"
+            },
+            {
+                "company": "TEKSYSTEMS INC.",
+                "url": "https://www.teksystems.com",
+                "logo": "TEKsystems.png"
             }
         ]
 
