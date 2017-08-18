@@ -188,5 +188,23 @@
             "Area": "Web Development;Cloud Development;DevOps"
         }],
         "Comment": ""
+    },
+    {
+        "Timestamp": "2017/08/17 8:52:51 PM EST",
+        "Username": "atkinbp@gmail.com",
+        "FirstName": "Brandon",
+        "LastName": "Atkins",
+        "SocialNetwork": "",
+        "Phone": "",
+        "Photo": "atkins.jpg",
+        "Bio": "Brandon Atkins is a full stack software developer who enjoys building interactive web applications and has experience in building single page applications.",
+        "Sessions": [{
+            "Title": "Building a Web App with the Angular CLI",
+            "Description": "Discussing the types of problems Angular solves for developement teams and build a demo site from scratch using the Angular CLI.",
+            "Level": "Intermediate;",
+            "Objective": "Build a small single page application.",
+            "Area": "Web Development;"
+        }],
+        "Comment": ""
     }
 ]

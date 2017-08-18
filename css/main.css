@@ -232,8 +232,6 @@
     
     #speakerContainer img.circle {
         position: relative;
-        left: 50%;
-        margin-left: -50px;
     }
     
     .google-maps {
