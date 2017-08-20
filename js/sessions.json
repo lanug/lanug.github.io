@@ -1,0 +1,141 @@
+[{
+        "id": 1,
+        "Title": "Making Developers Lives Easier with SQL Server 2016",
+        "Description": "Do you want insights into how your data has changed over a period of time?\nAre you using JSON as your data interchange format and want to integrate with SQL Server?\nDo you wish to have more statistical/historical information while troubleshooting a T-SQL performance issue?\nDo you face any problem while troubleshooting a long running query?\nHave you encountered performance issues after server/application upgrades?\n\nIf your answer to any of the above questions is YES, then this session is for YOU.  \nDuring this content rich and demo intensive session, you will understand the rich capabilities of SQL Server 2016 and how the life of a SQL Developer is getting transformed with features like Query Store, Live Query Statistics, Comparing Execution Plans, Built-in JSON Support, Temporal Database and other nice T-SQL enhancements.",
+        "Level": "Intermediate",
+        "Objective": "During this content rich and demo intensive session, you will understand the rich capabilities of SQL Server 2016 and how the life of a SQL Developer is getting transformed with features like Query Store, Live Query Statistics, Comparing Execution Plans, Built-in JSON Support, Temporal Database and other nice T-SQL enhancements.",
+        "Area": ["Database"],
+        "Speakers": [{
+            "FirstName": "Samir",
+            "LastName": "Behara"
+        }],
+        "Room": ""
+    },
+    {
+        "id": 2,
+        "Title": "Coding at 100 mph: Tips and Tricks in SSMS 2017",
+        "Description": "Be it a T-SQL Developer or DBA, we spend most of our time working in SSMS. In this session, we will learn a number of tips and tricks to increase productivity and efficiency in SSMS IDE. This will be a content rich session with plenty of live demos.\n \nEvery developer wants to be productive and get more things accomplished during their day to day work. Given a choice between working harder and working smarter, you will most likely choose the latter. But the big question is – How do you boost your productivity? How do you reduce your development time? How do you increase your coding speed? Gaining a superlative understanding of the IDE goes a long way in increasing one’s productivity.\n \nSQL Server Management Studio has a number of hidden features which might not have been advertised much, but knowing these features will make your life so much easier.We will explore ways to stop doing manual repetitive tasks, use shortcuts, type less and generate more lines of code in minimal time. At the end of this session, you will learn some useful techniques to take back with you and apply in your day to day work.",
+        "Level": "Intermediate",
+        "Objective": " In this session, you will learn a number of tips and tricks which will enhance your productivity and efficiency in SSMS IDE. We will explore ways to stop doing manual repetitive tasks, use shortcuts, type less and generate more lines of code in minimal time. At the end of this session, you will learn some useful techniques to take back with you and apply in your day to day work.",
+        "Area": ["Database"],
+        "Speakers": [{
+            "FirstName": "Samir",
+            "LastName": "Behara"
+        }],
+        "Room": ""
+    },
+    {
+        "id": 3,
+        "Title": "Starting Deep Learning with Python",
+        "Description": "This talk introduces the concept and usage of deep learning in python computing environments. The audience will learn the basic ideas and applications of  deep learning technologies. Especially, this talk will focus on using Keras on Theano and Tensorflow, and the exercises are designed for software engineers and data scientists. ",
+        "Level": "Beginner",
+        "Objective": "",
+        "Area": ["Cloud Development", "Data science"],
+        "Speakers": [{
+            "FirstName": "Ingyu",
+            "LastName": "Lee"
+        }],
+        "Room": ""
+    },
+    {
+        "id": 4,
+        "Title": "Typescript: Surprisingly Simple, Extraordinarily Powerful",
+        "Description": "This session will introduce attendees with Typescript and how it can help write more maintainable, robust and error free code. We will look at main features of Typescript and how Typescript transpiles into JavaScript.",
+        "Level": "Beginner",
+        "Objective": "Today as we move towards ES6 and ES7, we see that JavaScript community is adapting and accepting the features of traditional programming languages like C# and Java. This helps developers to write more mainatable code and also provides good base for new developers coming into JavaScript from Java or C#.\nTypescript adds more features on top of these new features like types and interfaces which allows us to write object oriented code in JavaScript, even for the browser which do not support ES6. \nLearning Typescript will allow developers to create large applications with more confidence.",
+        "Area": ["Web Development"],
+        "Speakers": [{
+            "FirstName": "Sachin",
+            "LastName": "Ohri"
+        }],
+        "Room": ""
+    },
+    {
+        "id": 5,
+        "Title": "Microservice-Powere­d Applications - It worked for Voltron, it can work for you!",
+        "Description": "Everyone knows that when you assemble a bunch of underdogs together, they become an unstoppable force. Whether it’s Voltron battling a Robeast, or a bunch of ants taking on a biker flying biker gang, combining several resources into one is a great way to add strength and capabilities to a team. In this session, Kentico Technical Evangelist Bryan Soltis will show you how to apply these same principles to building web applications using microservices for content hosting and delivery, search, and automation, all hosted in Azure.",
+        "Level": "Intermediate;Advanced",
+        "Objective": "",
+        "Area": ["Web Development", "Cloud Development"],
+        "Speakers": [{
+            "FirstName": "Bryan",
+            "LastName": "Soltis"
+        }],
+        "Room": ""
+    },
+    {
+        "id": 7,
+        "Title": "Docker 101",
+        "Description": "This will be introduction of docker, a virtualization technology. In the session, we will explore what is docker, what problems it is trying to solve and how can get it started. ",
+        "Level": "Beginner",
+        "Objective": "Introduce the docker ",
+        "Area": ["Cloud Development", "DevOps"],
+        "Speakers": [{
+            "FirstName": "Xiangdong",
+            "LastName": "Zhang"
+        }],
+        "Room": ""
+    }, {
+        "id": 8,
+        "Title": "Automated Testing",
+        "Description": "Introduction into getting started with Automated Testing",
+        "Level": "Beginner;Intermediate",
+        "Objective": "Hand coding an automated test using Selenium in C#.",
+        "Area": ["Other"],
+        "Speakers": [{
+            "FirstName": "Kelly",
+            "LastName": "Wong"
+        }],
+        "Room": ""
+    },
+    {
+        "id": 9,
+        "Title": "SOLID Programming: Applying the Principle of Single Responsibility",
+        "Description": "In this session, attendees can learn to write code that is easy to test, simple to expand, and adaptable to change. At the core of this talk is the Single Responsibility Principle (SRP), which is part of SOLID Programming Principles. The speaker will demonstrate how to refactor legacy code and apply SRP. SOLID Programming is a set of five essential principles which can lead to robust, long - lasting code.Robert C.Martin,software engineer and celebrated author of some of the most essential programming books today, coined the acronym SOLID to represent a collection of what he considered the most essential principles for any programmer.The first component of SOLID is the Single Responsibility Principle(SRP),and in the world of enterprise software engineering,not applying SRP can quickly lead to code with the power of the gods and the inflexibility of a fluorescent light bulb.However, by learning and applying SRP, armed with the power of interfaces and the safety net of unit testing,a programmer can transform almost any code base from untouchable 'legacy code' into living, adaptive code that creates value and can stand the test of time.",
+        "Level": "Intermediate",
+        "Objective": "Learn what the Single Responsibility Principle (SRP) is and how to apply it to existing code",
+        "Area": ["Web Development", "Database;Other"],
+        "Speakers": [{
+            "FirstName": "Kevin",
+            "LastName": "Garner"
+        }],
+        "Room": ""
+    },
+    {
+        "id": 10,
+        "Title": "Leveraging Microsoft’s Cognitive Services for Building the Next Generation of Software",
+        "Description": "",
+        "Level": "Intermediate",
+        "Objective": "",
+        "Area": ["Cloud Development"],
+        "Speakers": [{
+            "FirstName": "Kevin",
+            "LastName": "Grohoske"
+        }],
+        "Room": ""
+    }, {
+        "id": 11,
+        "Title": "Securing Web apps with Azure AD ",
+        "Description": "",
+        "Level": "Beginner;Intermediate",
+        "Objective": "When building a cloud app,one of the most common cross cutting concerns is the authentication of users.For some solutions,the security implementation is handled by the application itself.In this article,we explore the use of Azure Active Directory(AAD) to provide the security servicesfor our web or mobile apps. The application we are building is a Node.js backend API with an AngularJS front end.We explore the following areas:•Create an AngularJS App and use Git to deploy to Azure• Add Azure Active Directory(AD) service authentication to protect our app• Discuss the limitation using simple AD authentication when enabling anonymous access to some routes.•Enhance our security by taking direct control of the Azure AD APIs in our code to consume the Jason Web Token(JWT) from the Azure Identity provider ",
+        "Area": ["Web Development", "Cloud Development", "DevOps"],
+        "Speakers": [{
+            "FirstName": "Oscar",
+            "LastName": "Garcia"
+        }],
+        "Room": ""
+    }, {
+        "id": 12,
+        "Title": "Building a Web App with the Angular CLI",
+        "Description": "Discussing the types of problems Angular solves for developement teams and build a demo site from scratch using the Angular CLI.",
+        "Level": "Intermediate",
+        "Objective": "Build a small single page application.",
+        "Area": ["Web Development"],
+        "Speakers": [{
+            "FirstName": "Brandon",
+            "LastName": "Atkins"
+        }],
+        "Room": ""
+    }
+]

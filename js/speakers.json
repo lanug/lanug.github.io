@@ -99,7 +99,7 @@
         "LastName": "Zhang",
         "SocialNetwork": "@zhangxd6",
         "Phone": "",
-        "Bio": "He is most focused on Web technology and Microsoft stack as his backend choice.He is excited about new technologies, particularly in the cloud frontier and container, for instance Microsoft Azure and any frontend development. More recently, he grow his interest by tinkering with Arduino, 3D printing, and exploring IoT.  ",
+        "Bio": "He is most focusing on Web technology and Microsoft stack as his backend choice for about 10 years. He is excited about new technologies, particularly in the cloud frontier and container, for instance Microsoft Azure and any frontend development. More recently, he grow his interest by tinkering with Arduino, 3D printing, and exploring IoT.  ",
         "Sessions": [{
                 "Title": "Get started with azure service fabric",
                 "Description": "We will explore the offer Microsoft provided to realize microservice architecture, Azure Service Fabric, by starting with why the industry is talking about it, what it is and what the pros and cons are. Then we will dive directly into Azure Service Fabric to show three different programing modes it provides with live coding  in Visual Studio as much as possible",
