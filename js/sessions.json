@@ -137,5 +137,17 @@
             "LastName": "Atkins"
         }],
         "Room": ""
+    }, {
+        "id": 13,
+        "Title": "Getting Started with SQL Server Reporting Services",
+        "Description": "",
+        "Level": "Beginner",
+        "Objective": "",
+        "Area": ["Database"],
+        "Speakers": [{
+            "FirstName": "Keidrick",
+            "LastName": "Pettaway"
+        }],
+        "Room": ""
     }
 ]
