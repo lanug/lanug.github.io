@@ -47,8 +47,15 @@
             }
         ]
 
-    },
-    {
+    }, {
+        "level": "Sliver",
+        "companies": [{
+
+            "company": "Sparkhound",
+            "url": "http://www.sparkhound.com",
+            "logo": "SPK.png"
+        }]
+    }, {
         "level": "Garnet",
         "companies": [{
 
