@@ -140,7 +140,7 @@
     }, {
         "id": 13,
         "Title": "Getting Started with SQL Server Reporting Services",
-        "Description": "",
+        "Description": "Intro into SQL 2016 Reporting Services",
         "Level": "Beginner",
         "Objective": "",
         "Area": ["Database"],

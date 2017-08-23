@@ -84,9 +84,9 @@
         "Phone": "",
         "Bio": "Keidrick is Practiced Technologist with over 10 years of experience in Private Sector, Higher Education and DOD Industry space. He currently works for a Revenue Cycle Management provider working primarily on the Microsoft Tech Stack.",
         "Sessions": [{
-            "Title": "",
-            "Description": "",
-            "Level": "Intermediate;Advanced",
+            "Title": "Getting Started with SQL Server Reporting Services",
+            "Description": "Intro into SQL 2016 Reporting Services",
+            "Level": "Intermediate",
             "Objective": "",
             "Area": "DataBase"
         }],
